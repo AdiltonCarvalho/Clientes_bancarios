@@ -6,3 +6,7 @@ Este projeto foi desenvolvido em linguagem sql para tratamento e manipulação d
 Para acessar este projeto via Kaggle use o link:
 https://www.kaggle.com/code/ascarvalho/credit-analysis
 
+Estão disponíveis neste repositório:
+
+1.  Notebook do projeto - para observação do código e gráficos gerados de acordo com a análise;
+2.  Base de dados.
